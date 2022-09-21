@@ -1,4 +1,12 @@
 body {
-    color: #333;
-    background-color: #efefef;
+    font-family: cursive;
+    background-color: rgb(227, 201, 168);
+    max-width: 65ch;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+    font-family: serif;
 }
